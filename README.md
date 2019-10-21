@@ -1,2 +1,2 @@
-Hello, hello
-Hello again
+Goodbye!
+
